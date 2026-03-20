@@ -1,4 +1,4 @@
-# Equipo 0X - Nombre del curso
+# Equipo 0X - Nombre del cursoo
 ### Carrera de Ingeniería Ambiental / Informática / Industrial  
 **Universidad Peruana Cayetano Heredia**
 
